@@ -1,0 +1,1 @@
+{"mixinTypes":["contribution"],"builders":{"configs":{}},"runners":{"configs":{"system:/ruby/standalone/ruby210":{"ram":1000,"variables":{},"options":{}}},"default":"system:/ruby/standalone/ruby210"},"type":"ruby","attributes":{"contribute_branch":["master"],"contribute_mode":["contribute"],"language":["ruby"]}}
